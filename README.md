@@ -4,8 +4,6 @@ Project Overview
 This project implements a Universal Asynchronous Receiver Transmitter (UART) protocol in Verilog HDL.  
 It includes both UART Transmitter (TX) and Receiver (RX) modules with loopback communication for verification.
 
-The design was simulated using Icarus Verilog and verified through waveform analysis in GTKWave.
-
 *********---------*********
 
  Features
