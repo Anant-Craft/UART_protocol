@@ -25,3 +25,8 @@ TX converts parallel data → serial stream
 RX converts serial stream → parallel data
 
 
+Eda playground link ==https://www.edaplayground.com/x/Yerb
+completely tested and verified.
+
+
+
