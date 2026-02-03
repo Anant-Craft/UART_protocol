@@ -57,7 +57,7 @@ end
             //--------------------------------------
             START: begin
                 tx <= 1'b0; // start bit
-                if (baud_cnt == 25) begin
+				if (baud_cnt == 26) begin
                     baud_cnt <= 0;
                     state <= DATA;
                 end else
@@ -102,4 +102,5 @@ end
             default: state <= IDLE;
         endcase
     end
+
 endmodule
